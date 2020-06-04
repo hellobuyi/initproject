@@ -16,7 +16,6 @@ export default {
     HelloWorld
   },
   mounted () {
-    console.log(this.$http)
     this.api.get(this, 'analyzePage', (data) => {
       console.log(data)
     })
