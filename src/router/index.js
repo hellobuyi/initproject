@@ -4,7 +4,7 @@ import Home from '../views/Home.vue'
 
 Vue.use(VueRouter)
 
-const routes = [
+const home = [
   {
     path: '/',
     name: 'Home',
@@ -19,9 +19,14 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
   }
 ]
+const routes = home
+// .concat(sys)
 
 const router = new VueRouter({
   routes
 })
+// 添加登录拦截
+// router.beforeEach((to, from, next) => {
+// })
 
 export default router
