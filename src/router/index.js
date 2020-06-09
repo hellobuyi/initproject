@@ -1,28 +1,34 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Home from '../views/Home.vue'
+import Index from '../views/index/index.vue'
+import zhyw from '../config/zhyw'
 
 Vue.use(VueRouter)
 
-const home = [
+const login = [
   {
-    path: '/',
-    name: 'Home',
-    component: Home
-  },
-  {
-    path: '/about',
-    name: 'About',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
-  }
-]
-const routes = home
-// .concat(sys)
+    path: '/login',
+    name: 'login',
+    component: () => import('../views/login/index.vue')
+  }]
+const home = [{
+  path: '/',
+  name: 'Index',
+  component: Index,
+  children: [
+    {
+      path: '',
+      component: () => import('../views/home/index.vue')
+    }
+  ]
+}
 
+]
+home[0].children = home[0].children.concat(zhyw)
+const routes = [...login, ...home]
+console.log(routes)
 const router = new VueRouter({
+  mode: 'history',
   routes
 })
 // 添加登录拦截

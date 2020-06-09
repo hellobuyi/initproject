@@ -1,0 +1,44 @@
+[
+  {
+    "id": "@id()",
+    "title": "一张图",
+    "url": "/zhyw/yjfy/yzt",
+    "tp": "1",
+    "imgSrc": "assets/login/yz.png"
+  },
+  {
+    "id": "@id()",
+    "title": "预演预测",
+    "url": "/zhyw/yjfy/yjyc",
+    "tp": "1",
+    "imgSrc": "assets/login/yz.png",
+  },
+  {
+    "id": "@id()",
+    "title": "灾害分析评估",
+    "url": "/zhyw/yjfy/zhpg",
+    "tp": "1",
+    "imgSrc": "assets/login/yz.png",
+  },
+  {
+    "id": "@id()",
+    "title": "事件管理",
+    "url": "/zhyw/yjfy/sjgl",
+    "tp": "1",
+    "imgSrc": "assets/login/yz.png",
+  },
+  {
+    "id": "@id()",
+    "title": "监控云台",
+    "url": "/zhyw/yjfy/jkyt",
+    "tp": "1",
+    "imgSrc": "assets/login/yz.png",
+  },
+  {
+    "id": "@id()",
+    "title": "三维仿真",
+    "url": "/zhyw/yjfy/swfz",
+    "tp": "1",
+    "imgSrc": "assets/login/yz.png",
+  }
+]

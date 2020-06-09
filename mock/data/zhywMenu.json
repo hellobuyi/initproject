@@ -1,0 +1,218 @@
+[
+  {
+    "id": "@id()",
+    "title": "预警指标",
+    "url": "/zhyw/yjzb/yjfy",
+    "tp": "1",
+    "imgSrc": "assets/login/yz.png",
+    "children": [
+      {
+        "title": "一键防御预",
+        "url": "/zhyw/yjzb/yjfy",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "一键通畅系统",
+        "url": "/zhyw/yjzb/yjtc",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "引水管家系统",
+        "url": "/zhyw/yjzb/ysgj",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      }
+    ]
+  },
+  {
+    "id": "@id()",
+    "title": "设备管理",
+    "url": "/zhyw/sbgl/cjsb",
+    "tp": "1",
+    "imgSrc": "assets/login/yz.png",
+    "children": [
+      {
+        "title": "采集设备",
+        "url": "/zhyw/sbgl/cjsb",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "自控设备",
+        "url": "/zhyw/sbgl/zksb",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      }
+    ]
+  },
+  {
+    "id": "@id()",
+    "title": "事件管理",
+    "url": "/zhyw/sjgl/yjsj",
+    "tp": "1",
+    "imgSrc": "assets/login/yz.png",
+    "children": [
+      {
+        "title": "应急事件",
+        "url": "/zhyw/sjgl/yjsj",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "应急签到",
+        "url": "/zhyw/sjgl/yjqd",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "巡检事件",
+        "url": "/zhyw/sjgl/xjsj",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "巡检签到",
+        "url": "/zhyw/sjgl/xjqd",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "统计分析",
+        "url": "/zhyw/sjgl/tjfx",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "事件流程配置",
+        "url": "/zhyw/sjgl/sjlcpz",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      }
+    ]
+  },
+  {
+    "id": "@id()",
+    "title": "报表管理",
+    "url": "/zhyw/bbgl/sqgl",
+    "tp": "1",
+    "imgSrc": "assets/login/yz.png",
+    "children": [
+      {
+        "title": "水情管理",
+        "url": "/zhyw/bbgl/sqgl",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "雨情管理",
+        "url": "/zhyw/sbgl/yqgl",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "堤防工险段管理",
+        "url": "/zhyw/sbgl/dfgl",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "防汛材料管理",
+        "url": "/zhyw/sbgl/fxgl",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "应急责任人管理",
+        "url": "/zhyw/sbgl/yjgl",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "抢险队伍管理",
+        "url": "/zhyw/sbgl/qxgl",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "安置区管理",
+        "url": "/zhyw/sbgl/azgl",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "灾害区域管理",
+        "url": "/zhyw/sbgl/zqgl",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      }
+    ]
+  },
+  {
+    "id": "@id()",
+    "title": "运维管理",
+    "url": "/zhyw/ywgl/txbwpz",
+    "tp": "1",
+    "imgSrc": "assets/login/yz.png",
+    "children": [
+      {
+        "title": "通讯管道与报文动态配置管理",
+        "url": "/zhyw/ywgl/txbwpz",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "通讯设备信息管理",
+        "url": "/zhyw/ywgl/txsbgl",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "数据查询分析",
+        "url": "/zhyw/ywgl/sjcx",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "日志记录管理",
+        "url": "/zhyw/ywgl/rzjl",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      }
+    ]
+  },
+  {
+    "id": "@id()",
+    "title": "系统管理",
+    "url": "/zhyw/xtgl/zzjg",
+    "tp": "1",
+    "imgSrc": "assets/login/yz.png",
+    "children": [
+      {
+        "title": "组织机构",
+        "url": "/zhyw/xtgl/zzjg",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "角色管理",
+        "url": "/zhyw/xtgl/jsgl",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "用户管理",
+        "url": "/zhyw/xtgl/yhgl",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      },
+      {
+        "title": "授权管理",
+        "url": "/zhyw/xtgl/sqgl",
+        "tp": "1",
+        "imgSrc": "assets/login/yz.png"
+      }
+    ]
+  }
+]

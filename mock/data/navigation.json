@@ -1,0 +1,53 @@
+{
+  "menu_sys": [
+    {
+      "id": "@id()",
+      "title": "一键防御系统/（+大屏）",
+      "url": "/yjfy",
+      "tp": "1",
+      "imgSrc": "assets/home/wzgl.png"
+    },
+    {
+      "id": "@id()",
+      "title": "一键控制系统/（+大屏）",
+      "url": "/yjkz",
+      "tp": "1",
+      "imgSrc": "assets/home/wzgl.png"
+    },
+    {
+      "id": "@id()",
+      "title": "一键通畅系统",
+      "url": "/yjtc",
+      "tp": "1",
+      "imgSrc": "assets/home/wzgl.png"
+    },
+    {
+      "id": "@id()",
+      "title": "引水管家系统",
+      "url": "/ysgj",
+      "tp": "2",
+      "imgSrc": "assets/home/wzgl.png"
+    },
+    {
+      "id": "@id()",
+      "title": "灌溉助手系统",
+      "url": "/ggzs",
+      "tp": "2",
+      "imgSrc": "assets/home/wzgl.png"
+    },
+    {
+      "id": "@id()",
+      "title": "萧山菜篮子可视化系统",
+      "url": "/clzksh",
+      "tp": "2",
+      "imgSrc": "assets/home/wzgl.png"
+    },
+    {
+      "id": "@id()",
+      "title": "综合业务管理平台",
+      "url": "/zhyw",
+      "tp": "2",
+      "imgSrc": "assets/home/wzgl.png"
+    }
+  ]
+}
